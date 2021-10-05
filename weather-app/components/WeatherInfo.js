@@ -26,7 +26,7 @@ export default function WeatherInfo({currentWeather}) {
 
 const styles = StyleSheet.create({
     weatherInfo: {
-        backgroundColor: '#b21c55',
+        //backgroundColor: '#b21c55',
         //flexDirection: 'row',
         alignItems: 'center',
         // Estou tentando colocar uma margem aqui.
